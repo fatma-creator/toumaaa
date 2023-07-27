@@ -1,0 +1,35 @@
+body {
+  background-color: #f4f7ed;
+  color: #333;
+}
+
+header {
+  background-color: #147762;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+
+main {
+  padding: 40px;
+}
+
+footer {
+  background-color: #757c65;
+  color: #fff;
+  text-align: center;
+  padding: 10px;
+}
+
+/* tthe heart icon when liked */
+.heart-icon.liked i {
+  color: #e74c3c;
+}
+
+/* the total price */
+.total-price {
+  font-size: 24px;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 40px;
+}
